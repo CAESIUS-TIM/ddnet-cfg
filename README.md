@@ -4,9 +4,10 @@
 
 ## Binds
 
-the default value is placed at the second position in the `toggle` and `+toggle`.
+the default value is placed at the first position in the `toggle`.
+the default value is placed at the second position in the `+toggle`.
 
-eg. `bind x +toggle cl_dummy_hook 1 0`, `bind x toggle cl_showhud 0 1`.
+eg. `bind x +toggle cl_dummy_hook 1 0`, `bind x toggle cl_showhud 1 0`.
 
 ### Fng
 
