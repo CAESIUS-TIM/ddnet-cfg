@@ -7,3 +7,12 @@
 # DDNet Config
 
 A personal ddnet config folder.
+
+## Learn More
+
+- [DDNet Wiki](https://wiki.ddnet.org/)
+- [Just bind it](https://ddnet.org/binds/)
+- [Settings & Commands](https://ddnet.org/settingscommands/)
+- [DDNet-Scripts (Public archive)](https://github.com/VeH-c/DDNet-Scripts)
+- [DDNet-Scripts-zh](https://github.com/LuoChu-DDNetDev/DDNet-Scripts-zh)
+- [maoxuner/ddnet-cfg](https://github.com/maoxuner/ddnet-cfg)
