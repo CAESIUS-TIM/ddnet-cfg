@@ -1,7 +1,8 @@
+<!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
-	<a href="https://ddnet.org" target="_blank">
-		<img alt="DDNet Logo" width="400" src="https://ddnet.org/ddnet.svg">
-	</a>
+  <a href="https://ddnet.org" target="_blank">
+   <img alt="DDNet Logo" width="400" src="https://ddnet.org/ddnet.svg">
+  </a>
 </div>
 
 # DDNet Config
